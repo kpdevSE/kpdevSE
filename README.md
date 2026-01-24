@@ -1,5 +1,8 @@
 # Hi 👋, I'm Kanishka Pasindu
 
+![Profile Views](https://komarev.com/ghpvc/?username=kpdevSE&color=blue&style=flat-square)
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%26+Next.js+Engineer;Software+Engineering+Undergraduate;Building+Scalable+Web+Applications;Always+Learning+%26+Shipping" alt="Typing SVG" />
