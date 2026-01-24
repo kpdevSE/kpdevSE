@@ -1,87 +1,109 @@
-# Hi 👋, I'm Kanishka Pasindu
-
-![Profile Views](https://komarev.com/ghpvc/?username=kpdevSE&color=blue&style=flat-square)
-
+<h1 align="center">Hi 👋, I'm Kanishka Pasindu</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%26+Next.js+Engineer;Software+Engineering+Undergraduate;Building+Scalable+Web+Applications;Always+Learning+%26+Shipping" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;MERN+%26+Next.js+Engineer;Software+Engineering+Undergraduate;Building+Scalable+Web+Apps;Always+Learning+%26+Shipping" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kpdevSE&style=flat-square&color=blue" />
 </p>
 
 ---
 
-## 👨‍💻 Developer Profile
+## 👨‍💻 About Me
 
-I’m a **Full-Stack Developer** focused on building scalable, high-performance web applications using modern technologies. I enjoy turning complex problems into clean, maintainable solutions and continuously improving my engineering skills through real-world projects.
+🚀 I’m a **Full-Stack Developer** who loves building **scalable, production-ready web applications** using modern technologies.  
+I focus on **clean architecture, performance, and real-world problem solving**.
 
 - 🎓 **BSc (Hons) Software Engineering Undergraduate** – Cardiff Metropolitan University  
 - 💼 **Junior Software Engineer – FLiAI**  
 - 🧑‍💻 **Freelance Web Developer (Fiverr)** – Since 2020  
-- 🚀 Interested in **System Design, APIs, and Cloud-Native Applications**  
-- 📍 **Western Province, Sri Lanka**
+- 🌱 Interested in **System Design, APIs, Cloud & DevOps**  
+- 📍 Western Province, Sri Lanka  
 
 ---
 
 ## 🧠 Core Expertise
 
 - Full-Stack Web Development  
-- RESTful API Design & Integration  
-- Database Design & Optimization  
+- RESTful API Design  
 - Authentication & Authorization (JWT, Clerk)  
+- Database Design & Optimization  
 - Scalable Frontend Architecture  
 - Cloud Deployment & CI/CD  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack (Animated Icons)
 
 ### 💻 Programming Languages
-- HTML5, CSS3  
-- JavaScript (ES6+)  
-- TypeScript  
-- Java  
-- Python  
-- PHP  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,php&theme=dark" />
+</p>
+
+---
 
 ### 🌐 Frontend Development
-- React.js  
-- Next.js (App Router, Server Actions)  
-- Tailwind CSS  
-- Responsive UI Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+</p>
+
 - Component-Based Architecture  
+- Responsive UI Design  
+- Modern Frontend Patterns  
+
+---
 
 ### ⚙️ Backend Development
-- Node.js  
-- Express.js  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" />
+</p>
+
 - REST API Development  
 - MVC & Modular Architecture  
+- Business Logic & Validation  
+
+---
 
 ### 🗄️ Databases
-- MongoDB  
-- MySQL  
-- PostgreSQL  
-- Firebase  
-- Supabase  
-- CRUD Operations & Database Design  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark" />
+</p>
 
-### 🔁 Version Control
-- Git  
-- GitHub  
+- Database Design  
+- CRUD Operations  
+- Query Optimization  
+
+---
+
+### 🔁 Version Control & Collaboration
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</p>
+
 - Branching & Merging  
-- Pull Requests & Code Collaboration  
+- Pull Requests  
+- Code Reviews  
+
+---
 
 ### 🧪 Testing & API Tools
-- Postman  
-- API Testing & Debugging  
+<p>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
+</p>
+
+---
 
 ### ☁️ Deployment & DevOps
-- Vercel  
-- Netlify  
-- GitHub Pages  
-- Docker (Basics)  
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify&theme=dark" />
+</p>
+
 - CI/CD Pipelines  
 - Serverless Deployment  
+- Cloud Hosting  
 
 ---
 
@@ -89,24 +111,32 @@ I’m a **Full-Stack Developer** focused on building scalable, high-performance 
 
 ### 🏢 FLiAI  
 **Junior Software Engineer** *(Jan 2026 – Present)*  
-- Developing production-grade applications  
-- Collaborating with cross-functional teams  
-- Improving scalability and performance  
+- Building production-grade web applications  
+- Working with real-world systems and teams  
+- Improving performance & scalability  
+
+---
 
 ### 🏢 Lakion  
 **Full-Stack Software Engineer** *(Jan 2024 – Oct 2024)*  
-- Built CRM features using **Next.js, Prisma, MySQL**  
-- Developed backend APIs and frontend components  
+- Developed CRM systems  
+- **Next.js, Prisma, MySQL**  
+- Delivered features on time  
+
+---
 
 ### 🏢 FlexyCode  
 **Software Engineer Intern** *(Feb 2023 – Aug 2023)*  
-- Worked with the **MERN stack**  
-- Implemented frontend and backend features  
+- MERN stack development  
+- Frontend & backend feature implementation  
+
+---
 
 ### 🌍 Fiverr  
 **Freelance Web Developer** *(2020 – Present)*  
-- Delivered full-stack solutions for global clients  
-- Managed requirements, development, and deployment  
+- Delivered full-stack solutions  
+- Client requirement analysis & deployment  
+- Long-term client relationships  
 
 ---
 
@@ -142,9 +172,15 @@ I’m a **Full-Stack Developer** focused on building scalable, high-performance 
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/kanishka-pasindu-b976a8252  
-- Email: kanishkapasindu6@gmail.com  
+<p>
+  <a href="https://www.linkedin.com/in/kanishka-pasindu-b976a8252">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:kanishkapasindu6@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</p>
 
 ---
 
-⭐ *Code. Learn. Improve. Repeat.*
+⭐ **Code. Learn. Improve. Repeat.**
