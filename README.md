@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_IMAGE_URL_HERE](https://github.com/kpdevSE/kpdevSE/blob/main/github-header-banner.png)" alt="Kanishka Pasindu Header Banner" width="100%">
+  <img src="https://github.com/kpdevSE/kpdevSE/blob/main/github-header-banner.png" alt="Kanishka Pasindu Header Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kanishka Pasindu</h1>
