@@ -2,11 +2,9 @@
   <img src="https://github.com/kpdevSE/kpdevSE/blob/main/github-header-banner.png" alt="Kanishka Pasindu Header Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Kanishka Pasindu</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=950&lines=Javascript+Developer;Cloud-Native+Full-Stack+Developer;MERN+%26+Next.js+Engineer;DevOps-Minded+Software+Engineer;Build+Automate+Scale" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&vCenter=true&width=950&lines=Javascript+Developer;Cloud-Native+Full-Stack+Developer;MERN+%26+Next.js+Engineer;DevOps-Minded+Software+Engineer;Build+Automate+Scale" />
   </a>
 </p>
 
