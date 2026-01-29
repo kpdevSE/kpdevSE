@@ -10,14 +10,6 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Kanishka Pasindu</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=950&lines=Javascript+Developer;Cloud-Native+Full-Stack+Developer;MERN+%26+Next.js+Engineer;DevOps-Minded+Software+Engineer;Build+Automate+Scale" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kpdevSE&style=flat-square&color=blue" />
 </p>
