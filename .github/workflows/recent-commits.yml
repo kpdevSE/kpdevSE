@@ -2,7 +2,7 @@ name: Update Recent Commits
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # runs every 6 hours
+    - cron: '*/30 * * * *'   # runs every 6 hours
   workflow_dispatch:          # lets you run it manually too
 
 jobs:
