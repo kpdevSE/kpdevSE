@@ -129,6 +129,11 @@ public class AboutMe {
 
 ---
 
+## 🔥 Recent Commits
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 ## 📊 GitHub Stats
 
 <p align="center">
